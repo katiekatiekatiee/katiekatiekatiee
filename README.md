@@ -44,10 +44,11 @@ Here are some ideas to get you started:
 ## 🤝I’m looking to collaborate on
 Anything! While I am currently most interested in data structures and algorithms, I don't ever like to turn down an opportunity to join a project, offer insight, or take suggestions on how to better my previous projects. 
 
-## 📲 Contact Me
+## 📲 Contact me
 - Email: catherinemhodgkinson@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/chdev/)
 - [Blog](https://dev.to/chdev)
+- Bonus: [Spotify](https://open.spotify.com/user/122197272), for the ones like me that can't code without some background music!
 
 
 

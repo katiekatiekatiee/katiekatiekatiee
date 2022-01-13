@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Katie, a Csutomer Service expert turned Software Engineer with knacks for organization, problem-solving, and teamwork. I am experienced in Ruby in Rails and JavaScript-based programming, as well as working with other code libraries, APIs, and pair programming. I enjoy building my own projects and am always looking for ways to challenge myself, sharpen my skills, and indulge in creativity.
+
+

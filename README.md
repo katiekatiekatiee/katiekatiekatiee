@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### A Customer Service expert turned Software Engineer with knacks for organization, problem-solving, and teamwork. I am experienced in Ruby in Rails and JavaScript-based programming, as well as working with other code libraries, APIs, and pair programming. I enjoy building my own projects and am always looking for ways to challenge myself, sharpen my skills, and indulge in creativity. 
+#### A Customer Service expert turned Software Engineer with knacks for organization, problem-solving, and teamwork. I am experienced in Ruby on Rails and JavaScript-based programming, as well as working with other code libraries, APIs, and pair programming. I enjoy building my own projects, too, and am always looking for ways to challenge myself, sharpen my skills, and indulge in creativity. 
 
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katiekatiekatiee)](https://github.com/katiekatiekatiee/github-readme-stats)
 
@@ -38,8 +38,7 @@ Here are some ideas to get you started:
  - Visual Studio Code
  
  ## 👷🏻‍♀️ I’m currently working on                                              
- Data structures and algorithms, mostly. I am always working on                    
- keeping my skills sharp with sites like leetcode and codewars, too!
+ Data structures and algorithms, mostly. I am always working on keeping my skills sharp with sites like leetcode and codewars, too!
  
 ## 🤝I’m looking to collaborate on
 Anything! While I am currently most interested in data structures and algorithms, I don't ever like to turn down an opportunity to join a project, offer insight, or take suggestions on how to better my previous projects. 
